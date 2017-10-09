@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/usmeng/SimpleTweet/blob/master/screenshot/simple_twitter4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/HungryKya/HungryKya/blob/master/screenshot/hungryKya.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
