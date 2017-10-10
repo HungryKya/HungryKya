@@ -8,22 +8,23 @@ Team: Payal , Meng, Tristan.
 
 The following **required** functionality is completed:
 
- [ ] The app includes **all required user stories** from Week 1 HungryKya
+* [ ] The app includes **all required user stories** from Week 1 HungryKya
 * [ ] User can **switch between List and Map views on the home tabs by using tab**
   * [ ] User can view restaurants on map base on restaurants' location.
   * [ ] map could zoom in and zoom out to see restaurants
   * [ ] User can view restaurant list with name, distance, price and rating.
-* [ ] User can navigate to **view restaurants details**
-  * [ ] User can see title, description, pictures, location, preferred, times, commits, rating of the restaurant.
-  * [ ] User can save this restaurant to preference tab.
 * [ ] User can [infinitely paginate](http://guides.codepath.com/android/Endless-Scrolling-with-AdapterViews-and-RecyclerView) any of these timelines (home, mentions, user) by scrolling to the bottom
 
 The following **optional** features are implemented:
+* [ ] User can navigate to **view restaurants details**
+  * [ ] User can see title, description, pictures, location, preferred, times, commits, rating of the restaurant.
+  * [ ] User can save this restaurant to preference tab.
+  
+The following **bnous** features are implemented:
 
 * [ ] User can **search restaurant** in the search tab based on time, location and preference.
  * [ ] User can see picture, tagline, # of followers, # of following, and tweets of clicked user.
  * [ ] Profile view includes that user's timeline
-
 
 ## Video Walkthrough
 
